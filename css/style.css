@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1000px;
+    height: 493px;
+    background: #214639;
+    margin: auto;
+}
+.menu{
+	    background: #95ab8e;
+    overflow: hidden;
+}
+ul{
+	    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li{
+	float: left;
+
+}
+a{
+	    color: #643a75;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+}
+a:hover{
+	    background: whitesmoke;
+    color: #95ab8e;
+}
+ 
+ .main-content{
+ 	width: 100%;
+    height: 450px;
+ }
+ .left{    width: 700px;
+    height: 450px;
+    background: saddlebrown;
+    float: left;
+}
+ .one1{
+ 	    width: 65%;
+    height: 150px;
+    background: bisque;
+    float: left;
+ }
+  .two1{
+ 	width: 35%;
+    height: 150px;
+    background: #303063;
+    float: left;
+ }
+ .two2{
+    width: 35%;
+    height: 150px;
+    background: #1b0e10;
+    float: left;
+ }
+ 
+.one2{
+    width: 65%;
+    height: 150px;
+    background: chocolate;
+    float: left;
+}
+ 
+ .three1{      
+    width: 33.33%;
+    height: 150px;
+    background: brown;
+    float: left;
+}
+
+.three2{
+	width: 33.33%;
+    height: 150px;
+    background: #2d0404;
+    float: left;
+
+}
+.three3{
+    width: 33.33%;
+    height: 150px;
+    background: #c1a5b8;
+    float: left;
+}
+ .right{    width: 300px;
+    height: 450px;
+    background: yellow;
+    float: left;
+}
+.four1{
+	width: 300px;
+    height: 225px;
+    background: #7d7d45;
+    float: left;
+}
+
+.four2{
+    width: 300px;
+    height: 225px;
+    background: #4a4a05;
+    float: left;
+}
+.copyright{    width: 100%;
+    height: 25px;
+    background: rebeccapurple;
+    text-align: center;
+    color: cyan;
+}
+
+
